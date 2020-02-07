@@ -7,6 +7,7 @@
 * transform: translate;
 * псевдоэлементы :before и :after
 
-'''
-Задание было на курсах [Digital Banana](https://digital-banana.ru)
-'''
+```
+Задание было на курсах
+```
+[Digital Banana](https://digital-banana.ru)
